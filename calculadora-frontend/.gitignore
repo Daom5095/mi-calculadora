@@ -1,0 +1,19 @@
+# Backend: IntelliJ IDEA
+.idea/
+*.iml
+
+# Backend: Java y Maven
+target/
+*.log
+*.class
+*.jar
+
+# Frontend: Archivos temporales de Visual Studio Code
+.vscode/
+
+# Dependencias del frontend (si usas npm o yarn)
+node_modules/
+
+# Archivos de configuración de sistema operativo
+.DS_Store
+Thumbs.db
